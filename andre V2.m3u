@@ -1,16 +1,244 @@
-#EXTINF:-1,tvg-name="Multimedios" group-title="Costa Rica",Multimedios
-http://castlempire.site:8080/achacon1/VVo5375e36/174809
-#EXTINF:-1,tvg-name="Tigo Sports HD OPC 4" group-title="Costa Rica",Tigo Sports HD OPC 4
-http://castlempire.site:8080/achacon1/VVo5375e36/174810
-#EXTINF:-1,tvg-name="Teletica 7 HD (L)" group-title="Costa Rica",Teletica 7 HD (L)
-http://castlempire.site:8080/achacon1/VVo5375e36/174811
-#EXTINF:-1,tvg-name="CINECANAL HD" group-title="Canales USA",CINECANAL HD
-http://castlempire.site:8080/achacon1/VVo5375e36/169789
-#EXTINF:-1,tvg-name="AXN (Lat) HD" group-title="Canales USA",AXN (Lat) HD
-http://castlempire.site:8080/achacon1/VVo5375e36/169866 
-#EXTINF:-1,tvg-name="FOX SPORTS-1 HD" group-title="Canales USA",FOX SPORTS-1 HD
-http://castlempire.site:8080/achacon1/VVo5375e36/171801
-#EXTINF:-1,group-title="Deportes",FOX Sports Arizona
-http://castlempire.site:8080/achacon1/VVo5375e36/170002
-#EXTINF:-1,group-title="Deportes",Marquee Sports Network
-http://castlempire.site:8080/achacon1/VVo5375e36/170059
+#EXTINF:-1,group-title="Costa Rica",Multimedios
+
+#EXTINF:-1,group-title="Costa Rica",TIGO SPORT COSTA RICA HD
+http://castlempire.site:8080/achacon1/VVo5375e36/170974
+#EXTINF:-1,group-title="Costa Rica",Tigo Sports HD (L)
+http://castlempire.site:8080/achacon1/VVo5375e36/170976
+#EXTINF:-1,group-title="Costa Rica",Tigo Sports HD OPC 2
+http://castlempire.site:8080/achacon1/VVo5375e36/170977
+#EXTINF:-1,group-title="Costa Rica",Tigo Sports HD OPC 3
+http://castlempire.site:8080/achacon1/VVo5375e36/170956
+#EXTINF:-1,group-title="Costa Rica",Tigo Sports HD OPC 4
+http://castlempire.site:8080/achacon1/VVo5375e36/170933
+#EXTINF:-1,group-title="Costa Rica",Canal 8 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/170962
+#EXTINF:-1,group-title="Costa Rica",FUTV
+http://castlempire.site:8080/achacon1/VVo5375e36/170954
+#EXTINF:-1,group-title="Costa Rica",FUTV GRITALO (L)
+http://castlempire.site:8080/achacon1/VVo5375e36/170955
+#EXTINF:-1,group-title="Costa Rica",Multimedios
+http://castlempire.site:8080/achacon1/VVo5375e36/170932
+#EXTINF:-1,group-title="Costa Rica",Repretel 11
+http://castlempire.site:8080/achacon1/VVo5375e36/170931
+#EXTINF:-1,group-title="Costa Rica",Repretel 11 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/170935
+#EXTINF:-1,group-title="Costa Rica",REPRETEL 11
+http://castlempire.site:8080/achacon1/VVo5375e36/174069
+#EXTINF:-1,group-title="Costa Rica",Repretel 4
+http://castlempire.site:8080/achacon1/VVo5375e36/174070
+#EXTINF:-1,group-title="Costa Rica",REPRETEL 6
+http://castlempire.site:8080/achacon1/VVo5375e36/174071
+#EXTINF:-1,group-title="Costa Rica",TELETICA 7
+http://castlempire.site:8080/achacon1/VVo5375e36/174072
+#EXTINF:-1,group-title="Costa Rica",Repretel 4
+http://castlempire.site:8080/achacon1/VVo5375e36/170930
+#EXTINF:-1,group-title="Costa Rica",Repretel 6
+http://castlempire.site:8080/achacon1/VVo5375e36/170929
+#EXTINF:-1,group-title="Costa Rica",Repretel 6 HD (L)
+http://castlempire.site:8080/achacon1/VVo5375e36/170936
+#EXTINF:-1,group-title="Costa Rica",Repretel 6 HD OPC 2
+http://castlempire.site:8080/achacon1/VVo5375e36/170963
+#EXTINF:-1,group-title="Costa Rica",TD+1
+http://castlempire.site:8080/achacon1/VVo5375e36/170970
+#EXTINF:-1,group-title="Costa Rica",TD+2
+http://castlempire.site:8080/achacon1/VVo5375e36/170971
+#EXTINF:-1,group-title="Costa Rica",Teletica 7
+http://castlempire.site:8080/achacon1/VVo5375e36/170927
+#EXTINF:-1,group-title="Costa Rica",Teletica 7 HD (L)
+http://castlempire.site:8080/achacon1/VVo5375e36/170934
+#EXTINF:-1,group-title="Deportes",Espn SD
+http://castlempire.site:8080/achacon1/VVo5375e36/169897
+#EXTINF:-1,group-title="Deportes",ESPN
+http://castlempire.site:8080/achacon1/VVo5375e36/169994
+#EXTINF:-1,group-title="Deportes",ESPN  1 SUR FHD
+http://castlempire.site:8080/achacon1/VVo5375e36/169968
+#EXTINF:-1,group-title="Deportes",ESPN  2 SUR FHD
+http://castlempire.site:8080/achacon1/VVo5375e36/169969
+#EXTINF:-1,group-title="Deportes",Espn +
+http://castlempire.site:8080/achacon1/VVo5375e36/169997
+#EXTINF:-1,group-title="Deportes",ESPN 1
+http://castlempire.site:8080/achacon1/VVo5375e36/169963
+#EXTINF:-1,group-title="Deportes",ESPN 1 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/169964
+#EXTINF:-1,group-title="Deportes",Espn 2
+http://castlempire.site:8080/achacon1/VVo5375e36/169898
+#EXTINF:-1,group-title="Deportes",ESPN 2 SD
+http://castlempire.site:8080/achacon1/VVo5375e36/169965
+#EXTINF:-1,group-title="Deportes",ESPN 2 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/169966
+#EXTINF:-1,group-title="Deportes",ESPN 2 MX
+http://castlempire.site:8080/achacon1/VVo5375e36/169903
+#EXTINF:-1,group-title="Deportes",Espn 3
+http://castlempire.site:8080/achacon1/VVo5375e36/169899
+#EXTINF:-1,group-title="Deportes",ESPN 3 Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169967
+#EXTINF:-1,group-title="Deportes",ESPN 3 MX
+http://castlempire.site:8080/achacon1/VVo5375e36/169904
+#EXTINF:-1,group-title="Deportes",ESPN 3 SUR FHD
+http://castlempire.site:8080/achacon1/VVo5375e36/169970
+#EXTINF:-1,group-title="Deportes",ESPN DEPORTES HD
+http://castlempire.site:8080/achacon1/VVo5375e36/169900
+#EXTINF:-1,group-title="Deportes",ESPN MX
+http://castlempire.site:8080/achacon1/VVo5375e36/169902
+#EXTINF:-1,group-title="Deportes",Espn Plus SD
+http://castlempire.site:8080/achacon1/VVo5375e36/169901
+#EXTINF:-1,group-title="Deportes",ESPN U
+http://castlempire.site:8080/achacon1/VVo5375e36/169996
+#EXTINF:-1,group-title="Deportes",Fox Sports
+http://castlempire.site:8080/achacon1/VVo5375e36/169890
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 1
+http://castlempire.site:8080/achacon1/VVo5375e36/169980
+#EXTINF:-1,group-title="Deportes",Fox Sports 1
+http://castlempire.site:8080/achacon1/VVo5375e36/169999
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 1 SD Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169953
+#EXTINF:-1,group-title="Deportes",Fox Sports 1 MX
+http://castlempire.site:8080/achacon1/VVo5375e36/169894
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 1 HD Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169952
+#EXTINF:-1,group-title="Deportes",Fox Sports 2 SD
+http://castlempire.site:8080/achacon1/VVo5375e36/169891
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 2
+http://castlempire.site:8080/achacon1/VVo5375e36/169981
+#EXTINF:-1,group-title="Deportes",Fox Sports 2
+http://castlempire.site:8080/achacon1/VVo5375e36/170000
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 2 HD Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169955
+#EXTINF:-1,group-title="Deportes",Fox Sports 2 MX SD
+http://castlempire.site:8080/achacon1/VVo5375e36/169895
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 2 SD Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169954
+#EXTINF:-1,group-title="Deportes",Fox Sports 3
+http://castlempire.site:8080/achacon1/VVo5375e36/169892
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 3 Hd Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169957
+#EXTINF:-1,group-title="Deportes",Fox Sports 3 MX
+http://castlempire.site:8080/achacon1/VVo5375e36/169896
+#EXTINF:-1,group-title="Deportes",FOX SPORTS 3 SD Arg
+http://castlempire.site:8080/achacon1/VVo5375e36/169956
+#EXTINF:-1,group-title="Deportes",Fox Sports Premium
+http://castlempire.site:8080/achacon1/VVo5375e36/169959
+#EXTINF:-1,group-title="Deportes",Fox sports Premiun HD Ligero
+http://castlempire.site:8080/achacon1/VVo5375e36/169958
+#EXTINF:-1,group-title="Deportes",Fox Sports Prime Ticket
+http://castlempire.site:8080/achacon1/VVo5375e36/170032
+#EXTINF:-1,group-title="Deportes",TUDN
+http://castlempire.site:8080/achacon1/VVo5375e36/169887
+#EXTINF:-1,group-title="Deportes",TUDN
+http://castlempire.site:8080/achacon1/VVo5375e36/169888
+#EXTINF:-1,group-title="Deportes",TUDN
+http://castlempire.site:8080/achacon1/VVo5375e36/169889
+#EXTINF:-1,group-title="Deportes",TyC Sports
+http://castlempire.site:8080/achacon1/VVo5375e36/169975
+#EXTINF:-1,group-title="Deportes",TyC Sports Argentina
+http://castlempire.site:8080/achacon1/VVo5375e36/169976
+#EXTINF:-1,group-title="Deportes",TyC Sports SD
+http://castlempire.site:8080/achacon1/VVo5375e36/169971
+#EXTINF:-1,group-title="Deportes",Bein Sports Señal 1 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/178332
+#EXTINF:-1,group-title="Deportes",Bein Sports SD
+http://castlempire.site:8080/achacon1/VVo5375e36/178333
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO
+http://castlempire.site:8080/achacon1/VVo5375e36/170863
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO
+http://castlempire.site:8080/achacon1/VVo5375e36/170864
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO 2
+http://castlempire.site:8080/achacon1/VVo5375e36/170906
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO Family
+http://castlempire.site:8080/achacon1/VVo5375e36/170865
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO Mundi
+http://castlempire.site:8080/achacon1/VVo5375e36/170866
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO Plus
+http://castlempire.site:8080/achacon1/VVo5375e36/170867
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO plus
+http://castlempire.site:8080/achacon1/VVo5375e36/170869
+#EXTINF:-1,group-title="Canales De Peliculas",SD | HBO Signature
+http://castlempire.site:8080/achacon1/VVo5375e36/170868
+#EXTINF:-1,group-title="Canales De Peliculas",VIP FHD | HBO 2 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/56342
+#EXTINF:-1,group-title="Canales De Peliculas",VIP FHD | HBO Family HD
+http://castlempire.site:8080/achacon1/VVo5375e36/56356
+#EXTINF:-1,group-title="Canales De Peliculas",VIP FHD | HBO HD
+http://castlempire.site:8080/achacon1/VVo5375e36/56391
+#EXTINF:-1,group-title="Canales De Peliculas",VIP FHD | HBO Plus HD
+http://castlempire.site:8080/achacon1/VVo5375e36/56389
+#EXTINF:-1,group-title="Canales De Peliculas",VIP FHD | HBO Xtreme HD
+http://castlempire.site:8080/achacon1/VVo5375e36/56378
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO HD (ARG)
+http://castlempire.site:8080/achacon1/VVo5375e36/172764
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO 2 HD
+http://castlempire.site:8080/achacon1/VVo5375e36/172765
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO SIGNATURE
+http://castlempire.site:8080/achacon1/VVo5375e36/172787
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO Plus
+http://castlempire.site:8080/achacon1/VVo5375e36/172788
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO FAMILY
+http://castlempire.site:8080/achacon1/VVo5375e36/172789
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO Pop
+http://castlempire.site:8080/achacon1/VVo5375e36/172790
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO HD Latino ( Dual audio)
+http://castlempire.site:8080/achacon1/VVo5375e36/172795
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO Latino HD
+http://castlempire.site:8080/achacon1/VVo5375e36/172796
+#EXTINF:-1,group-title="Canales De Peliculas",CINE HD | HBO Xtreme HD
+http://castlempire.site:8080/achacon1/VVo5375e36/172797
+#EXTINF:-1,group-title="Canales De Peliculas",CINE | HBO Xtreme
+http://castlempire.site:8080/achacon1/VVo5375e36/172804
+#EXTINF:-1,group-title="Canales De Peliculas",CINE | HBO SIGNATURE
+http://castlempire.site:8080/achacon1/VVo5375e36/172805
+#EXTINF:-1,group-title="Noticias Internacionales",CAN NEWS | CNN HD
+http://castlempire.site:8080/achacon1/VVo5375e36/172564
+#EXTINF:-1,group-title="Noticias Internacionales",USA NEWS | CNN INTERNATIONAL | HD
+http://castlempire.site:8080/achacon1/VVo5375e36/172566
+#EXTINF:-1,group-title="Noticias Internacionales",MX NEWS | CNN EN ESPANOL
+http://castlempire.site:8080/achacon1/VVo5375e36/172574
+#EXTINF:-1,group-title="Noticias Internacionales",USA NEWS | CNN EN ESPANOL
+http://castlempire.site:8080/achacon1/VVo5375e36/172584
+#EXTINF:-1,group-title="Noticias Internacionales",PREMIUM NEWS | CNN INTERNATIONAL
+http://castlempire.site:8080/achacon1/VVo5375e36/172589
+#EXTINF:-1,group-title="Noticias Internacionales",PREMIUM NEWS | CNN ESPA\'d1OL
+http://castlempire.site:8080/achacon1/VVo5375e36/172590
+#EXTINF:-1,group-title="Noticias Internacionales",USA NEWS | FOX NEWS
+http://castlempire.site:8080/achacon1/VVo5375e36/172591
+#EXTINF:-1,group-title="Noticias Internacionales",USA NEWS | CNN | HD
+http://castlempire.site:8080/achacon1/VVo5375e36/172605
+#EXTINF:-1,group-title="Noticias Internacionales",USA NEWS | FOX NEWS OPC 2
+http://castlempire.site:8080/achacon1/VVo5375e36/172606
+#EXTINF:-1,group-title="Noticias Internacionales",LA_SD:CNN ESPANOL
+http://castlempire.site:8080/achacon1/VVo5375e36/174059
+#EXTINF:-1,group-title="Noticias Internacionales",LA_SD:CNN INT
+http://castlempire.site:8080/achacon1/VVo5375e36/174061
+#EXTINF:-1,group-title="Noticias Internacionales",LA_SD:SUR_CNN Espanol
+http://castlempire.site:8080/achacon1/VVo5375e36/174203
+#EXTINF:-1,group-title="Noticias Internacionales",LA_SD_MEX2:CNN en Espa\'f1ol
+http://castlempire.site:8080/achacon1/VVo5375e36/178610
+#EXTINF:-1,group-title="Noticias Internacionales",LA_SD_MEX2:CNN International
+http://castlempire.site:8080/achacon1/VVo5375e36/178611
+#EXTINF:-1,group-title="Noticias Internacionales",LA_HD_MEX2:CNN en Espa\'f1ol
+http://castlempire.site:8080/achacon1/VVo5375e36/178742
+#EXTINF:-1,group-title="Noticias Internacionales",LA_HD_MEX2:CNN International
+http://castlempire.site:8080/achacon1/VVo5375e36/178743
+#EXTINF:-1,group-title="Canales Infantiles",BR | CARTOON NETWORK HD
+http://castlempire.site:8080/achacon1/VVo5375e36/169676
+#EXTINF:-1,group-title="Canales Infantiles",INFANTILES | CARTOON NETWORK HD (LAT)
+http://castlempire.site:8080/achacon1/VVo5375e36/170063
+#EXTINF:-1,group-title="Canales Infantiles",INFANTILES | Cartoon Network (MX)
+http://castlempire.site:8080/achacon1/VVo5375e36/170076
+#EXTINF:-1,group-title="Canales Infantiles",SD | Cartoon network
+http://castlempire.site:8080/achacon1/VVo5375e36/170819
+#EXTINF:-1,group-title="Canales Infantiles",USA Kids | Cartoon Network HD
+http://castlempire.site:8080/achacon1/VVo5375e36/170305
+#EXTINF:-1,group-title="Canales Infantiles",IT: Cartoon Network
+http://castlempire.site:8080/achacon1/VVo5375e36/173778
+#EXTINF:-1,group-title="Canales Infantiles",*ARG_SD:CARTOON NETWORK
+http://castlempire.site:8080/achacon1/VVo5375e36/173890
+#EXTINF:-1,group-title="Canales Infantiles",LA_SD:CARTOON NETWORK
+http://castlempire.site:8080/achacon1/VVo5375e36/174050
+#EXTINF:-1,group-title="Canales Infantiles",LA_SD:SUR_CARTOON NETWORK
+http://castlempire.site:8080/achacon1/VVo5375e36/174196
+#EXTINF:-1,group-title="Canales Infantiles",LA_SD_MEX2:Cartoon Network
+http://castlempire.site:8080/achacon1/VVo5375e36/178608
+#EXTINF:-1,group-title="Canales Infantiles",LA_HD_MEX2:Cartoon Network HD
+http://castlempire.site:8080/achacon1/VVo5375e36/178739
+#EXTINF:-1,group-title="Canales Infantiles",VIP_BR:CARTOON NETWORK HD
+http://castlempire.site:8080/achacon1/VVo5375e36/183354
